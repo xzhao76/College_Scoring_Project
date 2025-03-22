@@ -1,1 +1,1 @@
-# College_Scoring_Project
+# Construct a data pipeline for college scoring data on GCP
